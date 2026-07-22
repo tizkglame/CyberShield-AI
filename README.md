@@ -2,7 +2,7 @@
 
 > ET AI Hackathon 2026 Submission
 
-CyberShield AI is an AI-powered cybersecurity platform built with Google AI Studio and the Gemini API. It helps users identify phishing attempts, analyze suspicious URLs, detect scam emails, and enhance cyber awareness through intelligent AI-driven security analysis.
+Digital Public Safety & Citizen Fraud Shield is an AI-powered cybersecurity platform built with Google AI Studio and the Gemini API. It helps users identify phishing attempts, analyze suspicious URLs, detect scam emails, and enhance cyber awareness through intelligent AI-driven security analysis.
 
 ## ✨ Features
 
