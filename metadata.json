@@ -1,0 +1,6 @@
+{
+  "name": "Digital Public Safety & Citizen Fraud Shield Platform",
+  "description": "Enterprise-grade public safety platform for digital arrest triage, FICN counterfeit currency analysis, fraud network graph intelligence, and NCRB threat neutralization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
