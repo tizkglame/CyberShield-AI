@@ -1,4 +1,4 @@
-# 🛡️ CyberShield AI
+# 🛡️ Digital Public Safety & Citizen Fraud Shield
 
 > ET AI Hackathon 2026 Submission
 
